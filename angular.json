@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "storybook-angular"
+    }
+  },
+  "defaultProject": "storybook-angular",
+  "cli": {
+    "analytics": "281e633e-a7df-4905-bcbf-638323f132fa"
+  }
 }
